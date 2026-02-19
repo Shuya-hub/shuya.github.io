@@ -2,4 +2,4 @@
 
 Hi, I'm Shuya
 <br/> 1. View my full portfolio here: (https://shuya-hub.github.io/cv/)
-<br/> 2. Assignment 2
+<br/> 2. Assignment 2: (https://github.com/Shuya-hub/assignment2)
