@@ -1,5 +1,8 @@
-# Shuya's Software Development Class
+# Shuya's Software Development
 
 Hi, I'm Shuya
 <br/> 1. View my full portfolio here: (https://shuya-hub.github.io/cv/)
-<br/> 2. Assignment 2: (https://github.com/Shuya-hub/assignment2)
+<br/> 2. Python Repo: [Groq API](https://github.com/Shuya-hub/assignment2)
+<br/> 3. FastAPI: https://assignment3-fastapi-m0lj.onrender.com
+<br/> 4. Create a Web App :[Link](https://preview--flutter-build-box.lovable.app/?__lovable_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9%2EeyJ1c2VyX2lkIjoiOGh6Mm9ONE9yNVNuWHE3SVdSbHhvd3c2VFliMiIsInByb2plY3RfaWQiOiJjMjk0N2I5My00YmM5LTRmNWMtYWFlMC0yODg1OTkzNTY3MDQiLCJhY2Nlc3NfdHlwZSI6InByb2plY3QiLCJpc3MiOiJsb3ZhYmxlLWFwaSIsInN1YiI6ImMyOTQ3YjkzLTRiYzktNGY1Yy1hYWUwLTI4ODU5OTM1NjcwNCIsImF1ZCI6WyJsb3ZhYmxlLWFwcCJdLCJleHAiOjE3ODIwNzM4NTUsIm5iZiI6MTc4MTQ2OTA1NSwiaWF0IjoxNzgxNDY5MDU1fQ%2ElZ61MdW24p1JC1jVPTeolyE3JN49ERYQdURWKURSVfdE7aFKZhgVr5n1gpWX1wQhgLdeam9FSiibrXvwvr01mw2sktK1E6m4OzVxHtI-hJZ7nVRLs4hr_DE0ol9xEAMn4W15XbtXVu2RX5J1sAd1Ckg22y1La9fCtHveiDSR9FXkXJp4mnRD6Y3GPDGwEqPT5ldtggJww84kfUTZgKeb82e7wYSjvVj5dsevj6UQeGCozjbd2fF-ZcgNWfG8TLTyu1db-z0LxsKKg-BOd482sfOntFiNOcwJGRAUDglHfIcfxmVaRbXDsjU1VKxObJ1nsYHiJFOWb8rTRf5KsCEzH7ZjIKMkHpQtMsN1mbsLCg-808iyOgTr9ntofUnIsYon1VWXK-8-grSsBmoBwJSIsHBqguFLFz3hjgOMwZA4-D-GxdXdDEyDBhww_RYiKnh7ITa-vzdGe5lZ4kH5st3D7nDXT68AAm2fWTbc4TPodK-xOIFru-MrIk90in63a5EegoNmt0s9B1QvRRaNHXKbTZAuF36YbKb26IaK7oiPhotNVQ_BzLtVhuQucgXR_lhKia037WRBp2KVX6XW6W3J5VIcstBqdJKaMzgeATvF_E46XFpp0FU05skssa0VlZuctpZY1Kwccd2LchtwSgTAB6zwWaEYfkHnPh3u9-ZopkQ) An AI-powered marketing dashboard that analyzes GA4 data to automatically detect trends, friction points, and growth opportunities, delivering actionable insights and weekly recommendations to improve website performance and conversions.
+<br/> 5.Email Espense Pattern Managemnet
